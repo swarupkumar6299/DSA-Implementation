@@ -59,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0145-binary-tree-postorder-traversal) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
