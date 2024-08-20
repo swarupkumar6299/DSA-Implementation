@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0817-design-hashmap](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0890-lemonade-change) |
+| [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
 | [2058-concatenation-of-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2058-concatenation-of-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
 ## Stack
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Breadth-First Search
 |  |
@@ -104,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0264-ugly-number-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
