@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0585-investments-in-2016](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0585-investments-in-2016) |
 | [1908-recyclable-and-low-fat-products](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1908-recyclable-and-low-fat-products) |
 ## Dynamic Programming
 |  |
