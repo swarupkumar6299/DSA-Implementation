@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0585-investments-in-2016](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0585-investments-in-2016) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1908-recyclable-and-low-fat-products](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1908-recyclable-and-low-fat-products) |
 ## Dynamic Programming
 |  |
