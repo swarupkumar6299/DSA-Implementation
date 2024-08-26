@@ -66,18 +66,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
