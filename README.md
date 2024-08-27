@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0890-lemonade-change) |
 | [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1325-path-with-maximum-probability) |
 | [2058-concatenation-of-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2058-concatenation-of-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0264-ugly-number-ii) |
+| [1325-path-with-maximum-probability](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1325-path-with-maximum-probability) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -148,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0476-number-complement) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
