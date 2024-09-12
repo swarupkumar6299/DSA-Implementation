@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2035-count-sub-islands) |
 | [2058-concatenation-of-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2058-concatenation-of-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
+| [1833-find-the-highest-altitude](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
