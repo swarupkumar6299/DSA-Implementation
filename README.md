@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2411-spiral-matrix-iv) |
+| [2428-equal-row-and-column-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2428-equal-row-and-column-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2411-spiral-matrix-iv) |
+| [2428-equal-row-and-column-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2411-spiral-matrix-iv) |
+| [2428-equal-row-and-column-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2428-equal-row-and-column-pairs) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
