@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0088-merge-sorted-array) |
 | [0539-minimum-time-difference](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1777-determine-if-two-strings-are-close](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Matrix
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1777-determine-if-two-strings-are-close](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sliding Window
 |  |
