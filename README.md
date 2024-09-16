@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0334-increasing-triplet-subsequence) |
+| [0539-minimum-time-difference](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0539-minimum-time-difference) |
 | [0605-can-place-flowers](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0643-maximum-average-subarray-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0088-merge-sorted-array) |
+| [0539-minimum-time-difference](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Matrix
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0264-ugly-number-ii) |
+| [0539-minimum-time-difference](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0650-2-keys-keyboard) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0443-string-compression) |
+| [0539-minimum-time-difference](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0664-strange-printer) |
