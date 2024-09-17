@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0817-design-hashmap) |
+| [0969-number-of-recent-calls](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0969-number-of-recent-calls) |
 ## Hash Function
 |  |
 | ------- |
@@ -352,4 +353,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0394-decode-string) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
