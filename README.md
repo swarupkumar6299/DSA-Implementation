@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0624-maximum-distance-in-arrays) |
+| [0649-dota2-senate](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0890-lemonade-change) |
 ## Math
 |  |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0592-fraction-addition-and-subtraction) |
+| [0649-dota2-senate](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0649-dota2-senate) |
 | [0664-strange-printer](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
