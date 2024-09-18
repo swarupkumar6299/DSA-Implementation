@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0725-split-linked-list-in-parts) |
 | [0817-design-hashmap](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0817-design-hashmap) |
 | [1484-linked-list-in-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1484-linked-list-in-binary-tree) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
