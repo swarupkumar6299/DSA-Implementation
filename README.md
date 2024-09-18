@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0817-design-hashmap) |
 | [1484-linked-list-in-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1484-linked-list-in-binary-tree) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
