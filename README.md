@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0437-path-sum-iii) |
 | [0623-add-one-row-to-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0623-add-one-row-to-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0871-keys-and-rooms](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0904-leaf-similar-trees) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0199-binary-tree-right-side-view) |
 | [0623-add-one-row-to-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0623-add-one-row-to-tree) |
+| [0871-keys-and-rooms](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2803-modify-graph-edge-weights) |
