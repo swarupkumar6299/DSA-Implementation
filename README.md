@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0437-path-sum-iii) |
 | [0623-add-one-row-to-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0623-add-one-row-to-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0904-leaf-similar-trees) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0437-path-sum-iii) |
 | [0623-add-one-row-to-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0623-add-one-row-to-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0904-leaf-similar-trees) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -442,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
