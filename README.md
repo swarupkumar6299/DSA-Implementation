@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0069-sqrtx) |
+| [0374-guess-number-higher-or-lower](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0374-guess-number-higher-or-lower) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0731-my-calendar-ii) |
@@ -541,4 +542,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0215-kth-largest-element-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
