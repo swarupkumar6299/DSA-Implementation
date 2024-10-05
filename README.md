@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0650-2-keys-keyboard) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Stack
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0664-strange-printer) |
+| [1236-n-th-tribonacci-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0241-different-ways-to-add-parentheses) |
+| [1236-n-th-tribonacci-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1236-n-th-tribonacci-number) |
 ## Rolling Hash
 |  |
 | ------- |
