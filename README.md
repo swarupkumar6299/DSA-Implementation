@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0747-min-cost-climbing-stairs) |
 | [0817-design-hashmap](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0890-lemonade-change) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0664-strange-printer) |
+| [0747-min-cost-climbing-stairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
