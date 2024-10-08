@@ -1,7 +1,7 @@
 class Solution:
     def minSwaps(self, s: str) -> int:
-        u = 0
-        for c in s:
-            u += 1 if c == '[' else -1 if u > 0 else 0
-        return (u+1)//2
+        unmatch = 0
+        for character in s:
+            unmatch += 1 if character == '[' else -1 if unmatch > 0 else 0
+        return (unmatch+1)//2
         
