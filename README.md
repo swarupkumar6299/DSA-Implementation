@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2428-equal-row-and-column-pairs) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2636-maximum-subsequence-score](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2636-maximum-subsequence-score) |
 ## Matrix
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2636-maximum-subsequence-score](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2636-maximum-subsequence-score) |
 ## Math
 |  |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2413-smallest-number-in-infinite-set](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2413-smallest-number-in-infinite-set) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2636-maximum-subsequence-score) |
 | [2803-modify-graph-edge-weights](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2803-modify-graph-edge-weights) |
@@ -420,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Game Theory
 |  |
 | ------- |
