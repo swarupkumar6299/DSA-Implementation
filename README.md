@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2636-maximum-subsequence-score) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2755-extra-characters-in-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2755-extra-characters-in-a-string) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2636-maximum-subsequence-score) |
 ## Math
 |  |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2413-smallest-number-in-infinite-set) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2636-maximum-subsequence-score) |
 | [2803-modify-graph-edge-weights](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2803-modify-graph-edge-weights) |
 ## Prefix Sum
