@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2058-concatenation-of-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2428-equal-row-and-column-pairs) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Graph
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0216-combination-sum-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1030-smallest-string-starting-from-leaf) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Counting
 |  |
 | ------- |
@@ -622,4 +625,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1002-maximum-width-ramp) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
