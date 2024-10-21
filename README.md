@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1894-merge-strings-alternately) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0216-combination-sum-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Counting
 |  |
