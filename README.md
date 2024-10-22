@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0605-can-place-flowers) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0198-house-robber) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0044-wildcard-matching](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0179-largest-number) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0394-decode-string) |
