@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0729-my-calendar-i) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0670-maximum-swap) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1304-longest-happy-string) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0664-strange-printer) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0806-domino-and-tromino-tiling) |
 | [1236-n-th-tribonacci-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1236-n-th-tribonacci-number) |
