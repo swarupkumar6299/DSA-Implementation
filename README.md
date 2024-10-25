@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0198-house-robber) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1435-xor-queries-of-a-subarray) |
