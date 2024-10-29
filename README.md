@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0567-permutation-in-string) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0208-implement-trie-prefix-tree) |
 | [0432-all-oone-data-structure](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0731-my-calendar-ii) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0241-different-ways-to-add-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0345-reverse-vowels-of-a-string) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1350-remove-sub-folders-from-the-filesystem) |
