@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1397-search-suggestions-system](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0731-my-calendar-ii) |
 | [0907-koko-eating-bananas](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1046-max-consecutive-ones-iii) |
+| [1397-search-suggestions-system](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1397-search-suggestions-system) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2586-longest-square-streak-in-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2586-longest-square-streak-in-an-array) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1256-rank-transform-of-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1256-rank-transform-of-an-array) |
+| [1397-search-suggestions-system](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1397-search-suggestions-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1325-path-with-maximum-probability) |
+| [1397-search-suggestions-system](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1397-search-suggestions-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2413-smallest-number-in-infinite-set](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2413-smallest-number-in-infinite-set) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1397-search-suggestions-system](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1397-search-suggestions-system) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -643,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1397-search-suggestions-system](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1397-search-suggestions-system) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
