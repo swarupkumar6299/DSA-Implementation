@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2636-maximum-subsequence-score) |
+| [2716-prime-subtraction-operation](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2716-prime-subtraction-operation) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2755-extra-characters-in-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2586-longest-square-streak-in-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2636-maximum-subsequence-score) |
+| [2716-prime-subtraction-operation](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3195-separate-black-and-white-balls) |
 ## Math
 |  |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
+| [2716-prime-subtraction-operation](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Stack
 |  |
@@ -606,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Backtracking
 |  |
