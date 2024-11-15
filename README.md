@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1694-make-sum-divisible-by-p) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1923-sentence-similarity-iii) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1397-search-suggestions-system) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2470-removing-stars-from-a-string) |
@@ -751,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Enumeration
 |  |
 | ------- |
