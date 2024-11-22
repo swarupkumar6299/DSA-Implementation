@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1046-max-consecutive-ones-iii) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1319-unique-number-of-occurrences) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1036-rotting-oranges) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2035-count-sub-islands](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0817-design-hashmap) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1392-find-the-difference-of-two-arrays) |
