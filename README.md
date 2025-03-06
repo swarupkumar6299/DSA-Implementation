@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2649-count-total-number-of-colored-cells](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Stack
