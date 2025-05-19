@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3321-type-of-triangle) |
 ## Matrix
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3321-type-of-triangle) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3637-count-number-of-balanced-permutations) |
 ## Stack
