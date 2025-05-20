@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3639-zero-array-transformation-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3639-zero-array-transformation-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3639-zero-array-transformation-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3639-zero-array-transformation-i) |
 ## Game Theory
 |  |
 | ------- |
