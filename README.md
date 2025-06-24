@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2551-apply-operations-to-an-array) |
