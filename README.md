@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2470-removing-stars-from-a-string) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0216-combination-sum-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Counting
 |  |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -829,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Merge Sort
 |  |
