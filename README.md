@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3618-find-the-original-typed-string-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3618-find-the-original-typed-string-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3637-count-number-of-balanced-permutations) |
 ## Breadth-First Search
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3618-find-the-original-typed-string-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3639-zero-array-transformation-i) |
 ## Game Theory
 |  |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3451-string-compression-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3451-string-compression-iii) |
 | [3617-find-the-original-typed-string-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3618-find-the-original-typed-string-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3637-count-number-of-balanced-permutations) |
 ## Bit Manipulation
