@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0735-asteroid-collision) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0069-sqrtx) |
 | [0241-different-ways-to-add-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0264-ugly-number-ii) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0179-largest-number) |
@@ -678,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0476-number-complement) |
