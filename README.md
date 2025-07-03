@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0539-minimum-time-difference) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0567-permutation-in-string) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0392-is-subsequence) |
