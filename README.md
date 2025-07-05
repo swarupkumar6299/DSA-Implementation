@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0151-reverse-words-in-a-string) |
