@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1972-rotating-the-box) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2413-smallest-number-in-infinite-set) |
 ## Hash Function
 |  |
