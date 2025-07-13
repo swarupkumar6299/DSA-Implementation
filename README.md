@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0399-evaluate-division) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0374-guess-number-higher-or-lower) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0729-my-calendar-i) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0539-minimum-time-difference) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0594-longest-harmonious-subsequence) |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0592-fraction-addition-and-subtraction) |
@@ -738,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1435-xor-queries-of-a-subarray) |
