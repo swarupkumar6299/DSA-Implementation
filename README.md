@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0258-add-digits) |
 | [0592-fraction-addition-and-subtraction](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0735-asteroid-collision) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0564-find-the-closest-palindrome) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0258-add-digits) |
 | [2716-prime-subtraction-operation](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Backtracking
