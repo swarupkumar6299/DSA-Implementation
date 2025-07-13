@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0539-minimum-time-difference) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1435-xor-queries-of-a-subarray) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1197-parsing-a-boolean-expression) |
