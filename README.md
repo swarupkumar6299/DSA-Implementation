@@ -731,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3396-valid-word](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3451-string-compression-iii) |
 | [3617-find-the-original-typed-string-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3618-find-the-original-typed-string-ii) |
