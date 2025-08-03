@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0349-intersection-of-two-arrays) |
 | [0399-evaluate-division](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0567-permutation-in-string) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0374-guess-number-higher-or-lower) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0729-my-calendar-i) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0539-minimum-time-difference) |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0349-intersection-of-two-arrays) |
 | [0432-all-oone-data-structure](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0594-longest-harmonious-subsequence) |
