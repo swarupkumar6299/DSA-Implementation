@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0435-non-overlapping-intervals) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0208-implement-trie-prefix-tree) |
+| [0303-range-sum-query-immutable](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0303-range-sum-query-immutable) |
 | [0432-all-oone-data-structure](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0731-my-calendar-ii) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1046-max-consecutive-ones-iii) |
