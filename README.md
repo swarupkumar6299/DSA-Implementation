@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2413-smallest-number-in-infinite-set](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2413-smallest-number-in-infinite-set) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2677-cousins-in-binary-tree-ii) |
