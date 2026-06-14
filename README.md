@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0859-design-circular-deque) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1484-linked-list-in-binary-tree) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2411-spiral-matrix-iv) |
