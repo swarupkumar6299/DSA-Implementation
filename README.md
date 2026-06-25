@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3689-maximum-total-subarray-value-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
 |  |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3639-zero-array-transformation-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3903-smallest-stable-index-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3903-smallest-stable-index-i) |
 ## Game Theory
@@ -957,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1045,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0731-my-calendar-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3791-fruits-into-baskets-iii) |
@@ -1068,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0948-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -1100,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0948-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
