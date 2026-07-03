@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0075-sort-colors) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0202-happy-number) |
