@@ -576,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2035-count-sub-islands](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2035-count-sub-islands) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2035-count-sub-islands](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -1169,10 +1171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
