@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1301-number-of-paths-with-max-score) |
 | [1319-unique-number-of-occurrences](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1325-path-with-maximum-probability) |
+| [1331-rank-transform-of-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1331-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1397-search-suggestions-system) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1256-rank-transform-of-an-array) |
 | [1288-remove-covered-intervals](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1331-rank-transform-of-an-array) |
 | [1397-search-suggestions-system](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1189-maximum-number-of-balloons) |
 | [1256-rank-transform-of-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1319-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
