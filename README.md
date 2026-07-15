@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3637-count-number-of-balanced-permutations) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -1004,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Backtracking
 |  |
 | ------- |
