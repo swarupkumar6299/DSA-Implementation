@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0624-maximum-distance-in-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0948-sort-an-array) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0592-fraction-addition-and-subtraction) |
+| [0628-maximum-product-of-three-numbers](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0670-maximum-swap) |
 | [0826-soup-servings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0826-soup-servings) |
