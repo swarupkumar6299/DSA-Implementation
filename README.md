@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2689-rearranging-fruits) |
 | [2716-prime-subtraction-operation](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2716-prime-subtraction-operation) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3195-separate-black-and-white-balls](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3195-separate-black-and-white-balls) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3227-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3312-sorted-gcd-pair-queries) |
 | [3321-type-of-triangle](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3321-type-of-triangle) |
@@ -961,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2755-extra-characters-in-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
