@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2689-rearranging-fruits](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2755-extra-characters-in-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2755-extra-characters-in-a-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2689-rearranging-fruits) |
 | [2716-prime-subtraction-operation](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2716-prime-subtraction-operation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3195-separate-black-and-white-balls) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -964,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -1077,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3312-sorted-gcd-pair-queries) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3518-smallest-palindromic-rearrangement-ii) |
