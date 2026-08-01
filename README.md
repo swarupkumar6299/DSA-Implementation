@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0605-can-place-flowers) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0592-fraction-addition-and-subtraction) |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0486-predict-the-winner) |
 | [0650-2-keys-keyboard](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0664-strange-printer) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -898,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0486-predict-the-winner) |
 | [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
 ## String
 |  |
@@ -1123,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3600-find-the-k-th-character-in-string-game-i) |
