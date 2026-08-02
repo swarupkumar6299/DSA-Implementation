@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0747-min-cost-climbing-stairs) |
 | [0817-design-hashmap](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0859-design-circular-deque) |
+| [0877-stone-game](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0670-maximum-swap) |
 | [0826-soup-servings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0826-soup-servings) |
+| [0877-stone-game](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0877-stone-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0826-soup-servings) |
+| [0877-stone-game](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1236-n-th-tribonacci-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
@@ -902,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0877-stone-game) |
 | [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
 ## String
 |  |
