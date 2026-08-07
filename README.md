@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3195-separate-black-and-white-balls) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3321-type-of-triangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -991,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3451-string-compression-iii) |
@@ -1073,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
@@ -1085,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting
 |  |
 | ------- |
