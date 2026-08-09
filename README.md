@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1046-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1140-stone-game-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1256-rank-transform-of-an-array) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0670-maximum-swap) |
 | [0826-soup-servings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0826-soup-servings) |
 | [0877-stone-game](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1140-stone-game-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0826-soup-servings) |
 | [0877-stone-game](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1140-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1140-stone-game-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1250-longest-common-subsequence) |
@@ -895,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1046-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1140-stone-game-ii) |
 | [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -920,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1140-stone-game-ii) |
 | [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1406-stone-game-iii) |
 ## String
@@ -1318,9 +1323,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
