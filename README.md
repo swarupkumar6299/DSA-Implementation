@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1510-stone-game-iv](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1840-maximum-building-height) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1406-stone-game-iii) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1510-stone-game-iv](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1510-stone-game-iv) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -927,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1140-stone-game-ii) |
 | [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1510-stone-game-iv) |
 ## String
 |  |
 | ------- |
@@ -1325,9 +1328,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
