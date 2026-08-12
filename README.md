@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3227-find-missing-and-repeated-values](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3227-find-missing-and-repeated-values) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2755-extra-characters-in-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2755-extra-characters-in-a-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -1144,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
