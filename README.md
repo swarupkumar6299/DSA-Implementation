@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3227-find-missing-and-repeated-values) |
@@ -1006,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -1149,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
