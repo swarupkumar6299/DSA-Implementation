@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3637-count-number-of-balanced-permutations) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3658-gcd-of-odd-and-even-sums) |
