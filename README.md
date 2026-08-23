@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2029-stone-game-ix) |
 | [2089-maximum-matrix-sum](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1840-maximum-building-height) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1927-sum-game](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2029-stone-game-ix) |
 | [2238-a-number-after-a-double-reversal](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2238-a-number-after-a-double-reversal) |
@@ -952,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2029-stone-game-ix) |
 ## String
 |  |
@@ -1007,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1923-sentence-similarity-iii) |
+| [1927-sum-game](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2079-delete-duplicate-folders-in-system) |
