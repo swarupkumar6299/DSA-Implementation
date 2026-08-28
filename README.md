@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -1059,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3637-count-number-of-balanced-permutations) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
@@ -1328,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
