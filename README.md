@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2089-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2029-stone-game-ix) |
 | [2089-maximum-matrix-sum](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2089-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
