@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3227-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Simulation
 |  |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -860,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
 | ------- |
@@ -1101,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
