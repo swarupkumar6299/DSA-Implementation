@@ -791,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0241-different-ways-to-add-parentheses) |
@@ -991,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0179-largest-number) |
