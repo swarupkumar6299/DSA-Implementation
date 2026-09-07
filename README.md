@@ -808,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0826-soup-servings) |
 | [0877-stone-game](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1140-stone-game-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
@@ -1016,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0664-strange-printer) |
 | [0812-rotate-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-distinct-subsequences-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0940-distinct-subsequences-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1081-smallest-subsequence-of-distinct-characters) |
