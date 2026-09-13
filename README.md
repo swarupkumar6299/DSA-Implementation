@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0747-min-cost-climbing-stairs) |
 | [0817-design-hashmap](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0817-design-hashmap) |
+| [0835-image-overlap](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0835-image-overlap) |
 | [0859-design-circular-deque](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0859-design-circular-deque) |
 | [0877-stone-game](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0890-lemonade-change) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0835-image-overlap) |
 | [1036-rotting-oranges](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1260-shift-2d-grid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1260-shift-2d-grid) |
