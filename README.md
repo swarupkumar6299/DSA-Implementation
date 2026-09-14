@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0670-maximum-swap) |
 | [0826-soup-servings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0826-soup-servings) |
+| [0836-rectangle-overlap](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1140-stone-game-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -1436,4 +1437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1510-stone-game-iv) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
