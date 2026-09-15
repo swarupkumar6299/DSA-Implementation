@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2551-apply-operations-to-an-array) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2554-minimum-total-distance-traveled](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2755-extra-characters-in-a-string) |
@@ -1059,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2470-removing-stars-from-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2599-take-k-of-each-character-from-left-and-right) |
