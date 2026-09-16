@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1510-stone-game-iv](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1840-maximum-building-height](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1872-stone-game-viii) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1510-stone-game-iv](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1510-stone-game-iv) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1872-stone-game-viii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1872-stone-game-viii) |
@@ -965,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1694-make-sum-divisible-by-p](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1694-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1732-find-the-highest-altitude) |
 | [1833-find-the-highest-altitude](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1833-find-the-highest-altitude) |
@@ -1342,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3518-smallest-palindromic-rearrangement-ii) |
