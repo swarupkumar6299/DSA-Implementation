@@ -664,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1002-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -1070,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1494,6 +1496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
