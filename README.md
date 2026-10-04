@@ -531,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0486-predict-the-winner) |
 | [0650-2-keys-keyboard](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0664-strange-printer) |
+| [0678-valid-parenthesis-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0806-domino-and-tromino-tiling) |
@@ -1071,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0592-fraction-addition-and-subtraction) |
 | [0649-dota2-senate](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0649-dota2-senate) |
 | [0664-strange-printer](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0664-strange-printer) |
+| [0678-valid-parenthesis-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-distinct-subsequences-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0940-distinct-subsequences-ii) |
@@ -1507,6 +1511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
