@@ -907,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0623-add-one-row-to-tree) |
@@ -1065,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0392-is-subsequence) |
@@ -1237,6 +1239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0301-remove-invalid-parentheses) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1096-brace-expansion-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1096-brace-expansion-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
