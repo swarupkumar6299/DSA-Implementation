@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3639-zero-array-transformation-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3639-zero-array-transformation-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3689-maximum-total-subarray-value-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -1225,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Graph
 |  |
