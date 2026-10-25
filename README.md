@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1140-stone-game-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1240-stone-game-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1240-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1254-number-of-closed-islands) |
 | [1256-rank-transform-of-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1256-rank-transform-of-an-array) |
 | [1260-shift-2d-grid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1288-remove-covered-intervals) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0835-image-overlap) |
 | [1036-rotting-oranges](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1254-number-of-closed-islands](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0988-flip-equivalent-binary-trees) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1254-number-of-closed-islands) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1484-linked-list-in-binary-tree) |
@@ -944,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1036-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1096-brace-expansion-ii) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1254-number-of-closed-islands) |
 | [1484-linked-list-in-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -1504,6 +1508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2812-find-the-safest-path-in-a-grid) |
