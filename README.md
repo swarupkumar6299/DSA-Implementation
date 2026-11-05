@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1325-path-with-maximum-probability) |
 | [1331-rank-transform-of-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1331-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1386-cinema-seat-allocation) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1397-search-suggestions-system) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0731-my-calendar-ii) |
 | [0907-koko-eating-bananas](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1046-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1397-search-suggestions-system) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1256-rank-transform-of-an-array) |
 | [1288-remove-covered-intervals](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1397-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
