@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1872-stone-game-viii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1882-process-tasks-using-servers) |
 | [1923-sentence-similarity-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1923-sentence-similarity-iii) |
 | [1929-concatenation-of-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1929-concatenation-of-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1940-maximum-xor-for-each-query) |
@@ -1048,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1397-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1882-process-tasks-using-servers](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1882-process-tasks-using-servers) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
