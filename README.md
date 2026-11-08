@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1254-number-of-closed-islands) |
 | [1256-rank-transform-of-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1256-rank-transform-of-an-array) |
 | [1260-shift-2d-grid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1301-number-of-paths-with-max-score) |
 | [1319-unique-number-of-occurrences](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1319-unique-number-of-occurrences) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1254-number-of-closed-islands](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1972-rotating-the-box) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1267-count-servers-that-communicate) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1484-linked-list-in-binary-tree) |
@@ -979,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1096-brace-expansion-ii) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1267-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -1333,6 +1337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1189-maximum-number-of-balloons](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1267-count-servers-that-communicate) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1777-determine-if-two-strings-are-close) |
@@ -1553,6 +1558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2812-find-the-safest-path-in-a-grid) |
