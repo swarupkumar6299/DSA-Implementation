@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3791-fruits-into-baskets-iii) |
+| [3934-smallest-unique-subarray](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3934-smallest-unique-subarray](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3934-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -1070,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0214-shortest-palindrome) |
 | [0817-design-hashmap](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0817-design-hashmap) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3934-smallest-unique-subarray](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3934-smallest-unique-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1468,6 +1472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/0214-shortest-palindrome) |
+| [3934-smallest-unique-subarray](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -1681,4 +1686,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/swarupkumar6299/DSA-Implementation/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
